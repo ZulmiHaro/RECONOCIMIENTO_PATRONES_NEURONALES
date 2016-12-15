@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CEAF821B-516B-4B48-B9B8-241BA20C1DFB}</ProjectGuid>
+    <ProjectGuid>{01EFEB61-DB59-4819-8D05-B59F3488BBCC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ReconocimentodeNúmeros_RN</RootNamespace>
-    <AssemblyName>ReconocimentodeNúmeros_RN</AssemblyName>
+    <RootNamespace>NumerosRN</RootNamespace>
+    <AssemblyName>NumerosRN</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("ReconocimentodeNúmeros_RN")]
+[assembly: AssemblyTitle("NumerosRN")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("ReconocimentodeNúmeros_RN")]
+[assembly: AssemblyProduct("NumerosRN")]
 [assembly: AssemblyCopyright("Copyright © Toshiba 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("ceaf821b-516b-4b48-b9b8-241ba20c1dfb")]
+[assembly: Guid("01efeb61-db59-4819-8d05-b59f3488bbcc")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

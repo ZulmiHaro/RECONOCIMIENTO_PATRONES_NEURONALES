@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ReconocimentodeNúmeros_RN.Properties
+namespace NumerosRN.Properties
 {
 
 
